@@ -19,6 +19,8 @@ Before submitting any content, please review our rules:
 5. We also reserve the right to rename and reorganize any included content to keep consistency within the library.
 6. Innapropriate content or behavior will be immediately rejected. We reserve the right to determine what is considered appropriate content. Please review our [Code of Conduct].
 
+Feel free to join our [Discord Server] under the "samples-and-presets" channel if you are interested in contributing.
+
 ## A list of categories we are looking for
 - Any presets for any of the factory plugins (which there are none at the moment)
 - One-shot Electronic Drums (EDM, House, DnB, Trap, Dubstep, Pop, HipHop, LoFi, etc)
@@ -68,3 +70,4 @@ If there is a category you feel is missing, feel free to open an issue or mentio
 [Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Creative Commons Zero]: https://creativecommons.org/choose/zero/
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
+[Discord Server]: https://discord.gg/2W3Xvc8wy4
