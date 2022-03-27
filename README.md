@@ -4,7 +4,7 @@ All samples and presets found in this repo are licensed under the [Creative Comm
 
 Feel free to open a PR to submit any samples or presets to be reviewed for inclusion in this library!
 
-Even if you do not create content, feel free to leave a review of any pending user-submitted content under the "Pull requests" tab above.
+Even if you do not create content, feel free to leave a review of any pending user-submitted content under the "Pull requests" and "Issues" tabs above.
 
 Before submitting any content, please review our rules:
 
