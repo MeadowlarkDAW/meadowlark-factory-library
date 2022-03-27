@@ -1,6 +1,10 @@
 # Meadowlark Factory Library
 
+The factory library used in the open source [Meadowlark] DAW.
+
 All samples and presets found in this repo are licensed under the [Creative Commons Zero] (CC0) license.
+
+---
 
 Feel free to open a PR to submit any samples or presets to be reviewed for inclusion in this library!
 
@@ -15,7 +19,7 @@ Before submitting any content, please review our rules:
 5. We also reserve the right to rename and reorganize any included content to keep consistency within the library.
 6. Innapropriate content or behavior will be immediately rejected. We reserve the right to determine what is considered appropriate content. Please review our [Code of Conduct].
 
-Here is a list of categories we are looking for:
+## A list of categories we are looking for
 - Any presets for any of the factory plugins (which there are none at the moment)
 - One-shot Electronic Drums (EDM, House, DnB, Trap, Dubstep, Pop, HipHop, LoFi, etc)
   - 808s
@@ -61,6 +65,6 @@ Here is a list of categories we are looking for:
 
 If there is a category you feel is missing, feel free to open an issue or mention it in your PR!
 
-
+[Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Creative Commons Zero]: https://creativecommons.org/choose/zero/
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
