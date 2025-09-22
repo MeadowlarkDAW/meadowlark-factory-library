@@ -1,5 +1,7 @@
 # Meadowlark Factory Library
 
+> This project has moved to [Codeberg](https://codeberg.org/Meadowlark/meadowlark-factory-library).
+
 The factory library used in the open source [Meadowlark] DAW.
 
 All samples and presets found in this repo are licensed under the [Creative Commons Zero] (CC0) license.
